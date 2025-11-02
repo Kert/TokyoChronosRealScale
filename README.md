@@ -22,7 +22,7 @@ It's a pre-compiled library that was made using [MonoMod HookGen](https://github
 ## Mod Install
 Take mod's *.dll file and put it into ```%game folder%/BepInEx/plugins/```
 
-Compiled *.dll file is [here](https://github.com/Kert/WarmTofuMod/releases)
+Compiled *.dll file is [here](https://github.com/Kert/TokyoChronosRealScale/releases)
 
 # Compiling mod yourself (for software engineers)
 After that you just run **build.bat**
