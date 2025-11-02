@@ -2,7 +2,7 @@ This is a mod for Tokyo Chronos
 
 It changes game world scale to match real world because by default everything looks way too huge
 
-When using the mod the floor in game is synced perfectly with the floor in real world
+When using the mod the floor in game is synced perfectly with the floor in the real world
 
 Reset VR position in standing/sitting pose depending on how you want to play the game
 
