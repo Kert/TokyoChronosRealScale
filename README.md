@@ -15,11 +15,11 @@ Extract the contents into the game folder
 
 Run the game once and close it.
 
-Then grab ```MMHOOK.zip``` from [here](https://github.com/Kert/TokyoChronosRealScale/releases/tag/MMHOOK) and extract archive into your game folder
+## Mod Install
+Grab ```MMHOOK.zip``` from [here](https://github.com/Kert/TokyoChronosRealScale/releases/tag/MMHOOK) and extract archive into your game folder
 
 It's a pre-compiled library that was made using [MonoMod HookGen](https://github.com/MonoMod/MonoMod/blob/master/README-RuntimeDetour.md) to make modding easier
 
-## Mod Install
 Take mod's *.dll file and put it into ```%game folder%/BepInEx/plugins/```
 
 Compiled *.dll file is [here](https://github.com/Kert/TokyoChronosRealScale/releases)
