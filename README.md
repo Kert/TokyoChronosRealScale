@@ -24,8 +24,8 @@ Take mod's *.dll file and put it into ```%game folder%/BepInEx/plugins/```
 
 Compiled *.dll file is [here](https://github.com/Kert/TokyoChronosRealScale/releases)
 
-# Compiling mod yourself (for software engineers)
-After that you just run **build.bat**
+# Compiling mod yourself
+Run **build.bat**
 
 The project expects that your game folder is ```C:\Program Files (x86)\Steam\steamapps\common\TOKYO CHRONOS\```
 
